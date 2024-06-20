@@ -1,1 +1,60 @@
-# -
+# 语音基座和多模态大模型
+
+|基础论文|
+
+|相关论文|
+
+|数据集|
+
+## 基础论文
+
+
+
+#### 2024
+
+- 复旦大学		 WavLLM: Towards Robust and Adaptive Speech Large Language Model [Paper](https://arxiv.org/abs/2404.00656) [ProjectPage](https://aka.ms/wavllm)
+
+- 香港中文大学	 Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models [Paper](https://arxiv.org/abs/2403.18814) [ProjectPage](https://github.com/dvlab-research/MGM)
+
+- 复旦大学		 AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling [Paper](https://arxiv.org/abs/2402.12226) [PojectPage](https://junzhan2000.github.io/AnyGPT.github.io/)
+
+- 香港理工大学	 Dual Parameter-Efficient Fine-Tuning for Speaker Representation Via Speaker Prompt Tuning and Adapters [Paper](https://ieeexplore.ieee.org/document/10447795)
+
+- 卡耐基梅隆大学     Domain Adaptation for Contrastive Audio-Language Models [Paper](https://arxiv.org/abs/2402.09585)
+
+
+#### 2023
+
+
+- 复旦大学		SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models [Paper](https://arxiv.org/abs/2308.16692) [ProjectPage](https://0nutation.github.io/SpeechTokenizer.github.io/)
+
+- 复旦大学		SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities [Paper](https://arxiv.org/abs/2305.11000) [ProjectPage](SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities)
+- IEEE			Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers [Paper](https://arxiv.org/abs/2312.03694)
+
+- 国立台湾大学	Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech [Paper](https://arxiv.org/abs/2309.09510)
+- 国立台湾大学	SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts [Paper](https://arxiv.org/abs/2306.02207)
+
+- 阿里巴巴		Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models [Paper](https://arxiv.org/abs/2311.07919) [ProjectPage](https://github.com/QwenLM/Qwen-Audio)
+
+- 美国微软		On decoder-only architecture for speech-to-text and large language model integration [Paper](https://arxiv.org/abs/2307.03917)
+
+- 国立台湾大学	SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks [Paper](https://arxiv.org/abs/2303.00733)
+
+- 微软			Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers [Paper](https://arxiv.org/abs/2301.02111) [ProjectPage](https://github.com/microsoft/unilm)
+
+- 
+- 昆士兰科技大学    Sparks of Large Audio Models: A Survey and Outlook [Paper](https://arxiv.org/abs/2308.12792) [ProjectPage](https://github.com/EmulationAI/awesome-large-audio-models)
+
+
+#### 2022
+
+- 国立台湾大学	SpeechPrompt: An Exploration of Prompt Tuning on Generative Spoken Language Model for Speech Processing Tasks [Paper]()
+- 布尔诺科技大学    Parameter-efficient transfer learning of pre-trained Transformer models for speaker verification using adapters  [Paper](https://arxiv.org/abs/2210.16032)
+
+## 相关论文
+
+#### 2024
+
+- 中国科学院	    BLSP-KD: Bootstrapping Language-Speech Pre-training via Knowledge Distillation [Paper](https://arxiv.org/abs/2405.19041)
+- 腾讯AI实验室	SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation [Paper](https://arxiv.org/abs/2404.14396) [ProjectPage](https://github.com/AILab-CVC/SEED-X)
+- 清华大学		RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness [Paper](https://arxiv.org/abs/2405.17220) [ProjectPage](https://github.com/RLHF-V/RLAIF-V)
