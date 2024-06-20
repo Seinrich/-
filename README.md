@@ -58,3 +58,38 @@
 - 中国科学院	    BLSP-KD: Bootstrapping Language-Speech Pre-training via Knowledge Distillation [Paper](https://arxiv.org/abs/2405.19041)
 - 腾讯AI实验室	SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation [Paper](https://arxiv.org/abs/2404.14396) [ProjectPage](https://github.com/AILab-CVC/SEED-X)
 - 清华大学		RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness [Paper](https://arxiv.org/abs/2405.17220) [ProjectPage](https://github.com/RLHF-V/RLAIF-V)
+
+
+## 数据集
+
+- [LibriSpeech](http://www.openslr.org/12/)
+- [Fisher](https://catalog.ldc.upenn.edu/LDC2004T19)
+- [Switchboard](https://catalog.ldc.upenn.edu/LDC97S62)
+- [CoVoST2](https://www.statmt.org/wmt16/multimodal-task.html)
+
+- [MuST-C](https://www.statmt.org/wmt17/multimodal-task.html)
+
+- [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
+
+- [LAION-GPT-4V](https://huggingface.co/datasets/laion/gpt4v-dataset)
+- [Gigaspeech](https://github.com/SpeechColab/GigaSpeech)
+
+- [CommonVoice](https://commonvoice.mozilla.org/en/datasets)
+
+- [Laion coco](https://laion.ai/blog/laion-coco/)
+
+- [VCTK](https://datashare.ed.ac.uk/handle/10283/3443)
+
+- [ESC-50](https://github.com/karolpiczak/ESC-50)
+- [UrbanSound8K](https://urbansounddataset.weebly.com/)
+
+- [DCASE2017 Task4](https://dcase.community/challenge2017/task-acoustic-scene-classification)
+- [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D)
+
+- [RAVDESS](https://zenodo.org/records/1188976)
+
+- [LibriLight](http://www.openslr.org/95/)
+
+- [TIMIT](https://catalog.ldc.upenn.edu/LDC93S1)
+
+- [AISHELL-3](http://www.openslr.org/93/)
