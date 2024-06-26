@@ -18,6 +18,8 @@
 
 - 复旦大学		 AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling [Paper](https://arxiv.org/abs/2402.12226) [PojectPage](https://junzhan2000.github.io/AnyGPT.github.io/)
 
+- 
+
 - 香港理工大学	 Dual Parameter-Efficient Fine-Tuning for Speaker Representation Via Speaker Prompt Tuning and Adapters [Paper](https://ieeexplore.ieee.org/document/10447795)
 
 - 卡耐基梅隆大学     Domain Adaptation for Contrastive Audio-Language Models [Paper](https://arxiv.org/abs/2402.09585)
@@ -52,6 +54,9 @@
 - 清华大学		RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness [Paper](https://arxiv.org/abs/2405.17220) [ProjectPage](https://github.com/RLHF-V/RLAIF-V)
 - 中国人民大学	TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning [Paper](https://arxiv.org/abs/2404.16635) [ProjectPage]()
 - 腾讯AI实验室	MM-LLMs: Recent Advances in MultiModal Large Language Models [Paper](https://arxiv.org/abs/2401.13601) [ProjectPage](https://mm-llms.github.io/) 
+- 字节跳动		MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering [Paper](https://arxiv.org/abs/2405.11985) [ProjectPage](https://bytedance.github.io/MTVQA/)
+- 南洋理工大学	F-LMM: Grounding Frozen Large Multimodal Models [Paper](https://arxiv.org/abs/2406.05821) [ProjectPage](https://github.com/wusize/F-LMM)
+- 新加坡国立大学    Towards Semantic Equivalence of Tokenizationin Multimodal LLM [Paper](https://arxiv.org/pdf/2406.05127) [ProjectPage](https://chocowu.github.io/SeTok-web/)
 
 
 ## 数据集
@@ -87,3 +92,6 @@
 - [TIMIT](https://catalog.ldc.upenn.edu/LDC93S1)
 
 - [AISHELL-3](http://www.openslr.org/93/)
+
+- [MTVQA](https://huggingface.co/datasets/ByteDance/MTVQA)
+- [MSCOCO2017](https://cocodataset.org/#home)
