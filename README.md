@@ -55,6 +55,7 @@
 - 中国人民大学	TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning [Paper](https://arxiv.org/abs/2404.16635) [ProjectPage]()
 - 腾讯AI实验室	MM-LLMs: Recent Advances in MultiModal Large Language Models [Paper](https://arxiv.org/abs/2401.13601) [ProjectPage](https://mm-llms.github.io/) 
 - 字节跳动		MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering [Paper](https://arxiv.org/abs/2405.11985) [ProjectPage](https://bytedance.github.io/MTVQA/)
+- 浙江大学		Auto-Encoding Morph-Tokens for Multimodal LLM [Paper](https://arxiv.org/abs/2405.01926) [ProjectPage](https://github.com/DCDmllm/MorphTokens)
 - 南洋理工大学	F-LMM: Grounding Frozen Large Multimodal Models [Paper](https://arxiv.org/abs/2406.05821) [ProjectPage](https://github.com/wusize/F-LMM)
 - 新加坡国立大学    Towards Semantic Equivalence of Tokenizationin Multimodal LLM [Paper](https://arxiv.org/pdf/2406.05127) [ProjectPage](https://chocowu.github.io/SeTok-web/)
 
