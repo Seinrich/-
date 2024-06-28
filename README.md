@@ -8,20 +8,12 @@
 
 ## 基础论文
 
-
-
 #### 2024
 
 - 复旦大学		 WavLLM: Towards Robust and Adaptive Speech Large Language Model [Paper](https://arxiv.org/abs/2404.00656) [ProjectPage](https://aka.ms/wavllm)
-
 - 香港中文大学	 Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models [Paper](https://arxiv.org/abs/2403.18814) [ProjectPage](https://github.com/dvlab-research/MGM)
-
 - 复旦大学		 AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling [Paper](https://arxiv.org/abs/2402.12226) [PojectPage](https://junzhan2000.github.io/AnyGPT.github.io/)
-
-- 
-
 - 香港理工大学	 Dual Parameter-Efficient Fine-Tuning for Speaker Representation Via Speaker Prompt Tuning and Adapters [Paper](https://ieeexplore.ieee.org/document/10447795)
-
 - 卡耐基梅隆大学     Domain Adaptation for Contrastive Audio-Language Models [Paper](https://arxiv.org/abs/2402.09585)
 
 
@@ -58,6 +50,11 @@
 - 浙江大学		Auto-Encoding Morph-Tokens for Multimodal LLM [Paper](https://arxiv.org/abs/2405.01926) [ProjectPage](https://github.com/DCDmllm/MorphTokens)
 - 南洋理工大学	F-LMM: Grounding Frozen Large Multimodal Models [Paper](https://arxiv.org/abs/2406.05821) [ProjectPage](https://github.com/wusize/F-LMM)
 - 新加坡国立大学    Towards Semantic Equivalence of Tokenizationin Multimodal LLM [Paper](https://arxiv.org/pdf/2406.05127) [ProjectPage](https://chocowu.github.io/SeTok-web/)
+- 滑铁卢大学	    MANTIS: Interleaved Multi-Image Instruction Tuning [Paper](https://arxiv.org/abs/2405.01483) [ProjectPage](https://tiger-ai-lab.github.io/Mantis/)
+- 哈尔滨工业大学    Recognizing Everything from All Modalities at Once Grounded Multimodal Universal Information Extraction [Paper](https://arxiv.org/abs/2406.03701)
+- 香港中文大学	UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner [Paper](https://arxiv.org/abs/2406.10056) [ProjectPage](https://github.com/yangdongchao/LLM-Codec)
+- 微软			NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models [Paper](https://arxiv.org/abs/2403.03100) [ProjectPage](https://speechresearch.github.io/)
+- 腾讯优图Lab	 Efficient Multimodal Large Language Models: A Survey [Paper](https://arxiv.org/pdf/2405.10739) 
 
 
 ## 数据集
